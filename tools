@@ -1,0 +1,75 @@
+🐍 Python Tools (Important for Beginners & DevOps)
+
+Since you are learning Linux, Git, Docker & DevOps, these Python tools will help you a lot 👇
+
+🔹 1. 🧑‍💻 Code Editors (Where you write Python code)
+
+Visual Studio Code – Most popular editor
+
+PyCharm – Special IDE for Python
+
+Jupyter Notebook – Good for data & practice
+
+🔹 2. 📦 Package Management Tools
+
+pip – Install Python libraries
+Example:
+
+pip install requests
+
+virtualenv – Create separate environments
+
+Poetry – Modern dependency manager
+
+🔹 3. 🧪 Testing Tools
+
+pytest – Simple and powerful testing tool
+
+unittest – Built-in Python testing module
+
+🔹 4. 🌐 Web Development Frameworks
+
+Django – Full website framework
+
+Flask – Lightweight web framework
+
+FastAPI – Modern & fast API framework
+
+🔹 5. 🤖 Automation / DevOps Tools
+
+Ansible – Uses Python internally
+
+Fabric – Remote server automation
+
+🔹 6. 📊 Data & AI Tools
+
+NumPy – Mathematical operations
+
+Pandas – Data handling
+
+TensorFlow – AI & ML
+
+🔥 For You (DevOps Path)
+
+I suggest you start with:
+
+Python basics
+
+pip
+
+virtualenv
+
+Flask (for API basics)
+
+Automation scripts
+
+If you want, I can give you:
+
+✅ Python tools only for DevOps
+
+✅ Python tools for beginners
+
+✅ Python tools for job preparation
+
+Tell me your goal 😊
+
